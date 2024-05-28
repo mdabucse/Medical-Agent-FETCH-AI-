@@ -1,6 +1,6 @@
 [![Fetch AI](https://img.shields.io/badge/Fetch_AI-%23007ACC.svg?style=flat&logo=fetchai&logoColor=white)](https://fetch.ai/)
 [![Agentverse](https://img.shields.io/badge/Agentverse-%2300C48A.svg?style=flat&logo=agentverse&logoColor=white)](https://agentverse.ai/)
-[![DeltaV](https://img.shields.io/badge/DeltaV-%237A00CC.svg?style=flat&logo=deltav&logoColor=white)](https://your-deltav-link.com)
+[![DeltaV](https://img.shields.io/badge/DeltaV-%237A00CC.svg?style=flat&logo=deltav&logoColor=white)]([https://your-deltav-link.com](https://deltav.agentverse.ai/))
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-%23FFA500.svg?style=flat&logo=chatgpt&logoColor=white)](https://your-chatgpt-link.com)
 
@@ -16,7 +16,7 @@
 MedIQ is a conversational agent designed to provide detailed information about various medicines. By interacting with MedIQ, users can obtain essential information regarding the usage, contraindications, dosage, side effects, storage, expiration, manufacturing details, overdose symptoms, and ingredients of specified medicines.
 
 ## Output Video
-
+https://github.com/mdabucse/Medical-Agent-FETCH-AI-/assets/131733014/74047438-df3b-47b5-a650-c15439fd5e48
 ## Table of Contents
 1. [Features](#features)
 2. [WorkFlow](#workflow)
