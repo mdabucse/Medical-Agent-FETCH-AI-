@@ -34,8 +34,8 @@ MedIQ is a conversational agent designed to provide detailed information about v
 - **Powered by OpenAI**: Utilizes OpenAI's API to generate responses based on user prompts.
 
 ## WorkFlow
-![Forward Workflow](1.png)
-![Backward Workflow](2.png)
+![Forward Workflow](assets/Flow1.png)
+![Backward Workflow](assets/Flow2.png)
 
 ## Setup and Installation
 
