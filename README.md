@@ -41,7 +41,7 @@ https://github.com/mdabucse/Medical-Agent-FETCH-AI-/assets/131733014/74047438-df
 
 1. **Clone the Repository**:
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/mdabucse/Medical-Agent-FETCH-AI-.git
     cd <AI AGENT>
     ```
 
