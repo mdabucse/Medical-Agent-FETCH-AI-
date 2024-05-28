@@ -115,9 +115,9 @@ When a user sends a message with the medicine name, the agent responds with deta
     ![step 4](assets/LocalRun.png)
 5. Click Test In DeltaV
     ![step 5](assets/TestDel.png)
-6. Click My Funtions
+7. Click My Functions
     ![step 6](assets/MyFunction.png)
-7. Interactions
+8. Interactions
     ![o1](assets/Out1.png)
     ![o2](assets/Out2.png)
     ![o3](assets/Out3.png)
